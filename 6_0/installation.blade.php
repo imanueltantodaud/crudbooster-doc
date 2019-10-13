@@ -20,6 +20,7 @@
             <li>PDO PHP Extension</li>
             <li>Tokenizer PHP Extension</li>
             <li>XML PHP Extension</li>
+            <li>Mod Rewrite Enable for Apache</li>
         </ul>
     </p>
 
