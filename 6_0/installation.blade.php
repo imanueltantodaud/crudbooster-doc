@@ -30,7 +30,7 @@
     <h2 class="mt-4">Laravel</h2>
     <p>Laravel version must meet the requirement version. You need to install laravel first. <a href="https://laravel.com/docs/6.x" target="_blank">Click here to see the tutorial</a></p>
     <p>
-        <pre><code class="language-bash">composer create-project laravel/laravel=5.8.* crudbooster</code></pre>
+        <pre><code class="language-bash">composer create-project --prefer-dist laravel/laravel curdbooster "5.8.*"</code></pre>
     </p>
 
     <h2 class="mt-4">CRUDBooster</h2>
