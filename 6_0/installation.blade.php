@@ -25,7 +25,7 @@
     </p>
 
     <h2 class="mt-4">Composer</h2>
-    <p>If you don't have a composer, please install it first. <a href="https://getcomposer.org/download/" target="_blank">Click here to see the tutorial</a></p>
+    <p>If you don't have Composer, please install it first. <a href="https://getcomposer.org/download/" target="_blank">Click here to see the tutorial</a></p>
 
     <h2 class="mt-4">Laravel</h2>
     <p>You should install and use the required version of Laravel. <a href="https://laravel.com/docs/6.x" target="_blank">Click here to see the tutorial</a></p>
