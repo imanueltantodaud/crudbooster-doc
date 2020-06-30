@@ -4,7 +4,10 @@
     <h1>Developer Area</h1>
 
     <p>
-        Manage super admin tools like Module Generator, Role Management, User Management, etc we called Developer Area.
+        Hi! Welcome to Developer Area.
+    </p>
+    <p>
+        Here we will learn to manage some "super admin tools" (e.g. Module Generator, Role Management, User Management, etc.).
     </p>
     <p>To get the access you need to run the following command: </p>
     <p>
